@@ -1,2 +1,2 @@
-# CDTLI
-Mapping Co-Seismic Landslides by Incorporating  Tri-temporal Logical Information in Change  Detection Method 
+# CD-TLI
+Mapping Co-Seismic Landslides by Incorporating Tri-temporal Logical Information in Change Detection Method 
